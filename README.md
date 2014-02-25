@@ -13,3 +13,7 @@ Now I have to make a headline
 
 <li> <h3>Headline</h3></li>
 
+An image is the next thing that I need to add in
+
+[img]http://www.fly-fishing-discounters.com/images/blue-marlin-2.jpg[/img]
+
