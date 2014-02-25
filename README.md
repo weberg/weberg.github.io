@@ -19,4 +19,6 @@ An image is the next thing that I need to add in
 <img src=http://www.gambassa.com/gambassafiles/images/images/kellyann5/november_marlin_2_v1.jpg</li>
 
 
-<img src=http://www.gambassa.com/gambassafiles/images/images/kellyann5/november_marlin_2_v1.jpg</li>
+A link to some website is the next thing to do
+
+<li><a href=http://www.buoyweather.com/index2.jsp>Link</a>
