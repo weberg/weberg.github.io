@@ -16,4 +16,4 @@ Now I have to make a headline
 An image is the next thing that I need to add in
 
 
-<img src=http://www.fly-fishing-discounters.com/images/blue-marlin-2.jpg</li>
+<img src=http://www.gambassa.com/gambassafiles/images/images/kellyann5/november_marlin_2_v1.jpg</li>
