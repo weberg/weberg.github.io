@@ -23,6 +23,6 @@ To get started, open the index.html file to find instructions and examples. You'
 
 <li><a href=http://www.coastal.edu/>Link</a>
 
-I will now make text that is italic
+5. I will now make text that is italic
 
 *Here is some text that is written in italic*
