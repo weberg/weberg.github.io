@@ -21,4 +21,4 @@ An image is the next thing that I need to add in
 
 A link to some website is the next thing to do
 
-<li><a href=http://www.buoyweather.com/index2.jsp>Link</a>
+<li><a href=http://www.coastal.edu/>Link</a>
