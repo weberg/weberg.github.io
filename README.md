@@ -22,3 +22,7 @@ An image is the next thing that I need to add in
 A link to some website is the next thing to do
 
 <li><a href=http://www.coastal.edu/>Link</a>
+
+I will now make text that is italic
+
+*This text will be italic*
