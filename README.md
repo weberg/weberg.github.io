@@ -19,4 +19,4 @@ An image is the next thing that I need to add in
 <img src=http://www.gambassa.com/gambassafiles/images/images/kellyann5/november_marlin_2_v1.jpg</li>
 
 
-<img src=http://www.thehulltruth.com/attachments/boating-outdoor-photos/110717d1271377980-hard-beat-offshore-sunrise-img_8909.jpg</li>
+<img src=http://www.gambassa.com/gambassafiles/images/images/kellyann5/november_marlin_2_v1.jpg</li>
