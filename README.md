@@ -8,3 +8,8 @@ To get started, open the index.html file to find instructions and examples. You'
 I need to make some bold text
 
 <b>here is some bold text to follow the directions for Exercise 3<b>
+
+Now I have to make a headline
+
+<li>Make a <h3>Headline</h3></li>
+
