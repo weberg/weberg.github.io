@@ -8,7 +8,7 @@ To get started, open the index.html file to find instructions and examples. You'
 1. I need to make some bold text
 **here is some bold text to follow the directions for Exercise 3**
 2. Now I have to make a headline
-# headline
+## headline
 3. An image is the next thing that I need to add in
 <img src=http://www.thehulltruth.com/attachments/boating-outdoor-photos/110717d1271377980-hard-beat-offshore-sunrise-img_8909.jpg</li>
 4. A link to some website is the next thing to do
