@@ -6,7 +6,7 @@ My Public Site
 To get started, open the index.html file to find instructions and examples. You'll start your editing there!
 
 1. I need to make some bold text
-<b>here is some bold text to follow the directions for Exercise 3<b>
+*here is some bold text to follow the directions for Exercise 3*
 2. Now I have to make a headline
 <li> <h3>Headline</h3></li>
 3. An image is the next thing that I need to add in
