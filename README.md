@@ -13,7 +13,6 @@ To get started, open the index.html file to find instructions and examples. You'
 3. An image is the next thing that I need to add in
 
 [](http://octodex.github.com/images/yaktocat.png)
-
 4. A link to some website is the next thing to do
 
 5. Here is some new text in the form of a block quote
