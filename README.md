@@ -13,8 +13,7 @@ To get started, open the index.html file to find instructions and examples. You'
 
 4. A link to some website is the next thing to do
 <li><a href=http://www.coastal.edu/>Link</a>
-5. I will now make text that is italic
-*Here is some text that is written in italic*
-In the words of Abraham Lincoln:
+5. Here is some new text in the form of a block quote
+My dad alwasy told me to:
 
-> Pardon my french
+> Be the very best you can because you never know who is watching 
