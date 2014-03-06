@@ -9,7 +9,7 @@ To get started, open the index.html file to find instructions and examples. You'
 **here is some bold text to follow the directions for Exercise 3**
 2. Now I have to make a headline
 
-##heading##   
+##heading   
 3. An image is the next thing that I need to add in
 
 4. A link to some website is the next thing to do
