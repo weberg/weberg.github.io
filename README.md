@@ -16,6 +16,7 @@ To get started, open the index.html file to find instructions and examples. You'
 4. A link to some website is the next thing to do
 
 [GitHub](http://github.com)
+
 5. Here is some new text in the form of a block quote
 My dad alwasy told me to:
 
