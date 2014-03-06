@@ -12,7 +12,7 @@ To get started, open the index.html file to find instructions and examples. You'
 3. An image is the next thing that I need to add in
 
 4. A link to some website is the next thing to do
-<li><a href=http://www.coastal.edu/>Link</a>
+
 5. Here is some new text in the form of a block quote
 My dad alwasy told me to:
 
